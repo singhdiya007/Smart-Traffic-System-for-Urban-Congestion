@@ -57,10 +57,4 @@ The video below shows the final output of the simulation.
 ```
 
 ------------------------------------------
-### Author
 
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
-
-------------------------------------------
-### License
-This project is licensed under the MIT - see the [LICENSE](./LICENSE) file for details.
